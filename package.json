@@ -1,0 +1,15 @@
+{
+  "name": "controller",
+  "version": "1.0.0",
+  "description": "",
+  "main": "controller.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sensortag": "git://github.com/sandeepmistry/node-sensortag",
+    "socket.io-client": "^1.2.1"
+  }
+}
